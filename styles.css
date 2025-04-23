@@ -1,10 +1,7 @@
-.nav-pill .nav-link{
+.nav-pill .nav-link {
     color: grey;
-}
-.nav-pill .nav-link.active{
-    color: blue;
-}
-body {
-    transform: scale(0.8); 
-    transform-origin: top center; 
   }
+  .nav-pill .nav-link.active {
+    color: blue;
+  }
+
